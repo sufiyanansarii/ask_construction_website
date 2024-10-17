@@ -1,0 +1,50 @@
+.pagespage{
+    background: url(../../assets/images/bg-2.jpg);
+    /* position: relative; */
+}
+.icon_box_2 .post-bg{
+    opacity: 0;
+    visibility: hidden;
+    height: 100%;
+    width: 100%;
+    transition: all 0.5s ease-out;
+}
+.icon_box_2:hover .post-bg{
+    opacity: 0.5;
+    visibility: visible;
+    transition: all 0.5s ease-out;
+}
+
+.pp-heading{
+    font-size: 5rem;
+    text-transform: uppercase;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    font-size: 600;
+}
+.pp-card-inner{
+    padding-top: 2rem;
+}
+.icon_box_inner {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 50px 40px 55px 40px;
+    z-index: 1;
+    transition: all 0.5s ease-in-out;
+}
+.i_b_i_img{
+    height: 48px;
+    width: 48px;
+    vertical-align: middle;
+}
+.i_b_i_img img{
+    height:100%;
+    width: 100%;
+    vertical-align: middle;
+}
+.icon_box_inner:hover{
+    transform: translateY(40px);
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="41" viewBox="0.206 7.013 125.589 45.974">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 37.5px;
+        font-family: "Calisto MT";
+        text-decoration: underline;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 14.583px;
+        font-family: "Arial Rounded MT Bold";
+      }
+    </style>
+  </defs>
+  <text id="_A_S_K_" data-name=" A S K " class="cls-1" x="4.5" y="32.5"> A S K </text>
+  <text id="ASSOCIATES" class="cls-2" x="15" y="55.5">ASSOCIATES</text>
+</svg>

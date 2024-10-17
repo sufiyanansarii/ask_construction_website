@@ -1,0 +1,64 @@
+/* Fixed position for the toggle button */
+.fixed-toggle-btn {
+    width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      overflow: hidden;
+      border: 1px solid #ffffff;
+      font-size: 30px;
+      background-color: #000000;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      animation: rotateSwi tcher 5s infinite linear;
+      position: fixed;
+      right: 20px;
+      top: calc(100vh / 4);
+      cursor: pointer;
+      z-index: 9999;
+      
+  }
+  @keyframes rotateSwitcher {
+    0% {
+      transform: scale(1);
+  }
+  50% {
+    transform: scale(0.85);
+  }
+  100% {
+  transform: scale(1);
+  }}
+
+
+:root {
+  --bg-color: #000000; /* Dark background */
+  --text-color: #ffffff; /* Light text */
+  }
+  :root .grid_lines .grid_line{
+    background-color: rgba(153, 153, 153, 0.366);
+  }
+  body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.5s ease, color 0.5s ease;
+  }
+  /* cursor  */
+  /* Night mode styles */
+  body.night-mode {
+    --bg-color: #000000; /* Dark background */
+    --text-color: #ffffff; /* Light text */
+  }
+  /* body.night-mode .grid_lines .grid_line {
+    background-color: rgba(153, 153, 153, 0.1);} */
+    :root .Information{
+     
+      background-color:#1b1b1b;}
+ 
+
+
+      :root svg{
+        
+        color: #ffffff;
+      }    
+   

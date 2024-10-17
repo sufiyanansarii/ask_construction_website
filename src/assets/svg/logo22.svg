@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="41" viewBox="0 0 112 41">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 14.583px;
+        font-family: "Baskerville Old Face";
+        text-decoration: underline;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #f9f9f9;
+      }
+
+      .cls-2 {
+        font-size: 8.333px;
+        font-family: "BankGothic Lt BT";
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <text id="_A_S_K_" data-name=" A S K " class="cls-1" transform="translate(12.4 28.014) scale(2.049 1.821)"> A S K </text>
+  <text id="ASSOCIATES" class="cls-2" transform="translate(15.952 38.913) scale(1.302 0.93)">ASSOCIATES</text>
+</svg>

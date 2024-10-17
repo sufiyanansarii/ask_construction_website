@@ -1,0 +1,11 @@
+.Aboutpage{
+    background: url(../../assets/images/bg-1.jpg);
+    background: cover no-repeat;
+    
+}
+.about_inner_text{
+    margin-top: 0.2rem;
+}
+.about_icon_box{
+    padding-top: 0;
+}

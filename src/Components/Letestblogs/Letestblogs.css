@@ -1,0 +1,52 @@
+.letestblogs{
+    background-color:#1b1b1b;
+    position: relative;
+}
+.largefont_Letestblogs h2 {
+    /* top: 85px; */
+    color: #212121;
+    font-weight: 700;
+    width: 100%;
+    font-size: 15rem;
+    line-height: calc(2.475rem + 12.6vw);
+    letter-spacing: 1.25rem;
+    text-align: center;
+    opacity: 1;
+    /* transform: translateZ(0); */
+    text-transform: uppercase;
+    /* top: 217px; */
+  
+  }
+  .lates_blogs{
+    margin-top: 3rem;
+  }
+  
+  .largefont_Letestblogs {
+    transform: translateY(30%);
+  }
+  
+  @media (min-width: 1400px) {
+    .largefont_Letestblogs h2 {
+      font-size: 15rem;
+    }
+  }
+  
+  @media (min-width: 1400px) {
+    .largefont_Letestblogs h2 {
+      line-height: 13.5rem;
+    }
+  }
+   
+  @media (min-width: 600px) {
+    .largefont_Letestblogs h2 {
+      line-height: 5rem;
+    }
+  }
+  .lates_blogs{
+    font-size: 3rem;
+    font-weight: 600;
+    word-spacing: 3rem;
+    color: aliceblue;
+    transform: translateY(-100%);
+    text-align: center;
+  }
